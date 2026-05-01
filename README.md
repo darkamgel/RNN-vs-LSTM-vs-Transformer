@@ -111,12 +111,3 @@ Given a sequence of words, each model predicts the next word in the sequence.
 - Matplotlib  
 
 ---
-
-## How to Run
-
-```bash
-git clone <your-repo-link>
-cd project-folder
-pip install -r requirements.txt
-python train.py
-python evaluate.py
